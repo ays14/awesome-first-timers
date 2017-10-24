@@ -498,8 +498,8 @@
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
   
-  - Name: Ayush Sharma
-    Place: India
-    Bio: Newbie, Under-Grad Student at IIT Guwahati
-    GitHub: [ays14](https://github.com/ays14
-    Facebook: [Ayush Sharma](https://www.facebook.com/Ays014)
+ - Name: Ayush Sharma  
+   Place: India  
+   Bio: Newbie, Under-Grad Student at IIT Guwahati  
+   GitHub: [ays14](https://github.com/ays14)  
+   Facebook: [Ayush Sharma](https://www.facebook.com/Ays014)  
